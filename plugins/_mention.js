@@ -8,12 +8,12 @@
 
 let handler = m => m
 handler.all = async function (m, conn) {
-    var vn = "https://raw.githubusercontent.com/Guru322/GURU-BOT/main/Assets/mp3/Guru1.mp3"
+    var vn = "https://file.io/Iws3266XGIEy"
     let url = "https://github.com/Guru322/GURU-BOT"
-    let murl = "https://www.instagram.com/asli_guru_2k23"
+    let murl = "https://www.instagram.com/invites/contact/?i=pkzek6fe198f&utm_content=kybmjvr"
     let hash = global.botname
-    let img = "https://telegra.ph/file/dbed2fc0abfabcd411327.jpg"
-    let num = "917605902011"
+    let img = "https://telegra.ph/file/66a1e592abd9a276d413d.jpg"
+    let num = "918101821810"
 
     let doc = {
         audio: {
@@ -27,7 +27,7 @@ handler.all = async function (m, conn) {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "↺ |◁   II   ▷|   ♡",
+          title: "*ੈ✩‧₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐",
           body: hash,
           thumbnailUrl: img,
           sourceUrl: url,
