@@ -2,7 +2,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender)
   var vn = 'https://cdn.jsdelivr.net/gh/Guru322/GURU-BOT@main/Assets/mp3/Alive.mp3'
-  let url = 'https://github.com/Guru322/GURU-BOT'
+  let url = 'https://github.com/Obito786/OBI-BOT'
   let murl = 'https://youtu.be/DibiLc17dh0?si=xp9bQ-_frEyDB1-i'
   let img = 'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
   let con = {
@@ -31,9 +31,9 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
       mentionedJid: [m.sender],
       externalAdReply: {
         title: 'I AM ALIVE',
-        body: 'GURU BOT',
+        body: '*ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐',
         thumbnailUrl: img,
-        sourceUrl: 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp',
+        sourceUrl: 'https://chat.whatsapp.com/KWAadDw545X2Re1F6RjjEz',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
