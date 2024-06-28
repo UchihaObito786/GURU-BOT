@@ -26,7 +26,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
       },
       forwardingScore: 999,
       externalAdReply: {
-        title: 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ',
+        title: '*ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐',
         body: 'R U N T I M E',
         thumbnailUrl: pp,
         sourceUrl: 'https://guruapi.tech',
